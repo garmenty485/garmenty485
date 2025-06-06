@@ -1,6 +1,6 @@
 Hi there! I'm Ken, a Data Engineer with 3+ years of experience specializing in building and optimizing automated data engineering and processing workflows.
 
-My expertise includes:
+# My expertise includes:
 
 ## Data Pipelines & ETL/ELT: 
 Proficient in designing and deploying scalable data engineering infrastructures on cloud platforms like AWS and GCP.
@@ -14,7 +14,7 @@ Data Modeling & Warehousing: Skilled in designing and implementing data models a
 Automation & Deployment: Experienced in Git, Docker, Kubernetes, Linux, Shell scripting, and automated deployment.
 I'm passionate about transforming raw data into actionable insights and building robust, efficient data systems.
 
-Featured Projects:
+# Featured Projects:
 
 ## Amazon Deals Data Pipeline: 
 An automated ETL pipeline that fetches Amazon deals data, performs cleaning and analysis, and stores results in Google BigQuery. This project showcases my skills in dlt, PySpark, dbt, GCP services (BigQuery, Cloud Run, Cloud Scheduler, GCS), Terraform, and Docker.
