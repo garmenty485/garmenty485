@@ -17,10 +17,12 @@ I'm passionate about transforming raw data into actionable insights and building
 # Featured Projects:
 
 ## Amazon Deals Data Pipeline: 
-An automated ETL pipeline that fetches Amazon deals data, performs cleaning and analysis, and stores results in Google BigQuery. This project showcases my skills in dlt, PySpark, dbt, GCP services (BigQuery, Cloud Run, Cloud Scheduler, GCS), Terraform, and Docker.
+An automated ETL pipeline that fetches Amazon deals data, performs cleaning and analysis, and stores results in Google BigQuery. This project showcases my skills in dlt, PySpark, dbt, GCP services (BigQuery, Cloud Run, Cloud Scheduler, GCS), Terraform, and Docker. (https://github.com/garmenty485/Amazon_deals-DE-pipline)
 
 ## English Battle Bro: 
 A web game built with the MERN stack, demonstrating my ability to learn new technologies and apply them in practical projects. It includes Socket.io, Google OAuth 2.0, MongoDB, and RESTful APIs. 
 (You can play the game here: https://englishbattlebro.onrender.com/)
 
-I'm always looking for new challenges and opportunities to apply my skills in data engineering. Feel free to connect with me!
+
+# Linkedin
+https://www.linkedin.com/in/chia-ming-hu-683382255/
