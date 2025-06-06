@@ -1,4 +1,4 @@
-Hi there! I'm Ken, a Data Engineer with 3+ years of experience specializing in building and optimizing automated data engineering and processing workflows.
+Hi there! I'm Ken, a Data Engineer.
 
 # My expertise includes:
 
